@@ -1,0 +1,4 @@
+Src directory="F:\collection_copy"
+Dst directory="F:\collection_copy_into"
+Delete at src=True
+Check interval in seconds=60
